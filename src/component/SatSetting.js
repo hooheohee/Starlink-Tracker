@@ -86,7 +86,7 @@ class SatSettingForm extends Component {
             <InputNumber
               placeholder="Please input Altitude"
               min={0}
-              max={90}
+              max={180}
               style={{ width: "100%" }}
             />
           )}
